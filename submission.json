@@ -1,0 +1,8 @@
+{
+  "prompt": "An authentic Edo-period Japanese Ukiyo-e woodblock print representing the machine learning concept of 'gradient descent' entirely through historical metaphor. A winding mountain dirt path descends down the steep slopes of Mt. Fuji, leading to a tranquil temple at sea level which represents the global minimum. The iterative steps of the algorithm are depicted as sequential traditional post stations along the descending path, marked by wooden signposts bearing vertical Kanji calligraphy. Edo-period travelers in traditional garments navigate the descent. The artwork must strictly use historical woodblock visual grammar: flat unmodulated colors, strong black key-block outlines, 'bokashi' color gradation in the sky, and stylized crashing waves in Prussian blue. CRITICAL CONSTRAINTS: Absolutely NO English text, NO modern digital framing borders, NO 3D shading, NO literal abstract graph lines, NO floating UI elements, and NO rolling spheres. Include authentic vertical title cartouches and red artist seals integrated naturally into the composition.",
+  "model": "Nano Banana 2",
+  "concept": "Gradient Descent",
+  "tradition_name": "Japanese ukiyo-e woodblock prints",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Targeted flat unmodulated colors, bold outlines with woodgrain, diagonal comp, no shadows, for authentic Edo grammar fusing optimization path to landscape."
+}
