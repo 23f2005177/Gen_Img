@@ -1,0 +1,7 @@
+{
+  "prompt": "A wide cinematic scene showing human population growth across time from left to right. On the far left, a small number of people in ancient times (hunter-gatherers, early farmers, simple huts, fire, stone tools), warm sepia tones, representing low population. Moving toward the center, medieval era with more people, villages, farms, markets, horses, windmills. Further right, industrial era with factories, railways, early cities, more crowded streets, smokestacks. On the far right, a dense modern megacity with skyscrapers, highways, neon lights, and a massive crowded population. The number of people gradually increases from left to right forming a visually left-skewed growth pattern. Smooth transition of time periods, continuous landscape morphing through eras, ultra detailed, cinematic lighting, high detail, wide panoramic composition, symbolic visualization of population growth, realistic style.",
+  "model": "Nano Banana 2",
+  "dataset_name": "World Population Growth",
+  "dataset_url": "https://www.kaggle.com/datasets/maheshmani13/world-population-growth",
+  "insight": "From a few scattered settlements to towering megacities, the landscape itself becomes the bar chart, showing how human population has exploded across time."
+}
