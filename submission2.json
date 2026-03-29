@@ -1,0 +1,6 @@
+{
+  "prompt": "A dimly lit, realistic industrial water treatment plant interior. Several metal input pipes of different diameters merge into a single heavy steel manifold. Mounted on top of the manifold is a spring-loaded pressure relief valve with a visible compressed spring mechanism and an analog pressure gauge attached to the chamber. The gauge needle is high, indicating pressure has built up. From the output pipe on the right, water is flowing out forcefully, showing that the valve has opened due to high pressure. The pipes are fully connected with realistic joints and bolts, no impossible geometry. The environment is gritty and wet, with puddles on the floor, rusted metal textures, condensation, and cinematic moody lighting. The focus is on the valve mechanism and the junction where multiple pipes combine. No text, no labels, no diagrams, no symbols, no glowing elements, no screens. Ultra-realistic industrial photography, shallow depth of field, 8k detail.",
+  "model": "DALL·E",
+  "concept": "activation function",
+  "metaphor": "A water‑treatment plant valve that only allows a controlled stream of water through represents an activation function that decides how much of a neuron's input signal passes on, filtering out too‑low or too‑high inputs."
+}
